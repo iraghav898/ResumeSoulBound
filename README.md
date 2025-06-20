@@ -1,1 +1,1 @@
-# ResumeSoulBound
+The ResumeSoulboundNFT smart contract is designed for XGenesis, an educational NFT platform, to issue non-transferable (soulbound) resume NFTs to students. These NFTs serve as verified digital credentials (such as resumes, project records, skills, or certifications) issued only by the college (owner of the contract).
